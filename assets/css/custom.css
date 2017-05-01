@@ -1,0 +1,11 @@
+section#installation ol,
+section#requirements ul {
+    text-align: left;
+}
+
+#functions {
+    background: #e89980;
+    color: #f9e5df;
+    padding: 3.5em 0 4em 0;
+    text-align: center;
+}
