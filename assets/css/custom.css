@@ -1,5 +1,7 @@
 section#installation ol,
-section#requirements ul {
+section#requirements ul,
+section#installation p,
+section#requirements p {
     text-align: left;
 }
 
